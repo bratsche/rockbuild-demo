@@ -1,0 +1,17 @@
+GIT
+  remote: git@github.com:duncanmak/rockbuild.git
+  revision: bf23b72b5ee164b704b6de48a73a9efe2f03237c
+  specs:
+    rockbuild (0.0.2)
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    thor (0.18.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rockbuild!
